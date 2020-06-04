@@ -19,7 +19,6 @@ public class Main {
         john.setFirstName("Rob");
         System.out.println(john.getFirstName());
         System.out.println(john.isMarried());
-        System.out.println(john.getAge());
         System.out.println(john.getLastName());
 
     }

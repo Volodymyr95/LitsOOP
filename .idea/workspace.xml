@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99837771-2df0-4093-844c-2779c6e2ab64" name="Default Changelist" comment="" />
+    <list default="true" id="99837771-2df0-4093-844c-2779c6e2ab64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LitsOOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LitsOOP/com/company/BackendDeveloper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LitsOOP/com/company/Developer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LitsOOP/com/company/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LitsOOP/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LitsOOP/com/company/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LitsOOP/com/company/Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LitsOOP/com/encapsulation/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/BackendDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/encapsulation/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +38,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1crSWS8RgBKCDFgfMSdhUgFybrH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -55,22 +83,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1591288473218" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1591288743341">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1591289424178">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591288743341" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1591288743334">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591289424178" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1591289424176">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591288743334" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1591288743333">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591289424176" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1591289424171">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591288743333" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1591288743338">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591289424171" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1591289424177">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591288743338" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591289424177" />
     <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1591285451422">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
